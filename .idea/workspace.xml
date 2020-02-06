@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02b61a38-638e-4bfb-aaf9-5fd272fc0f75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/IRCNetworkLauncher.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/IRCNetworkLauncher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/IRCServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/IRCServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/Logs/ServerConnections_1_TwoServers.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/Logs/ServerConnections_1_TwoServers.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/barad-dur.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/barad-dur.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/minastirith.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/minastirith.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/rivendale.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/rivendale.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../network_prog/prog2/theshire.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../network_prog/prog2/theshire.log" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NEED_TO_WIN</find>
+      <find>board[curRow][curCol]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>toWin</replace>
+      <replace>whatsAtPos(curRow, curCol)</replace>
+      <replace>whatsAtPos(new BoardPosition(curRow, curCol))</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1OVVHELJJus0Et7LFDJGCxilpmg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563564399922" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GUI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cpsc2150.extendedTicTacToe.TicTacToeGame" />
+      <module name="Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b61a38-638e-4bfb-aaf9-5fd272fc0f75" name="Default Changelist" comment="" />
+      <created>1557774233255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557774233255</updated>
+      <workItem from="1563806597885" duration="682000" />
+      <workItem from="1563831097007" duration="1528000" />
+      <workItem from="1563903162589" duration="6948000" />
+      <workItem from="1563912290768" duration="1405000" />
+      <workItem from="1563918813176" duration="3158000" />
+      <workItem from="1563975955582" duration="1829000" />
+      <workItem from="1563978957829" duration="843000" />
+      <workItem from="1563999953130" duration="1653000" />
+      <workItem from="1564062248803" duration="176000" />
+      <workItem from="1564062669861" duration="958000" />
+      <workItem from="1564602319087" duration="231000" />
+      <workItem from="1566578485132" duration="49000" />
+      <workItem from="1566578730014" duration="53000" />
+      <workItem from="1566578877355" duration="96000" />
+      <workItem from="1566847489978" duration="52000" />
+      <workItem from="1567444092514" duration="45000" />
+      <workItem from="1572715470656" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
