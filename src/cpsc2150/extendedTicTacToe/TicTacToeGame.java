@@ -17,6 +17,7 @@ public final class TicTacToeGame {
 		GameSetupScreen screen = new GameSetupScreen();
 		GameSetupController controller = new GameSetupController(screen);
 		screen.registerObserver(controller);
+		
 
 	}
 }
